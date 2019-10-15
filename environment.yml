@@ -5,3 +5,4 @@ dependencies:
   - matplotlib
   - statsmodels
   - netCDF4
+  - rise
